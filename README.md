@@ -1,4 +1,4 @@
-# Docuchat Gemini Chatbot
+# Docuchat Gemini Chatbot:
 
 A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or TXT documents using **Google Gemini API**.
 
